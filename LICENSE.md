@@ -1,4 +1,4 @@
-# 
+# Get the ultimate Polymarket trading-bot with vip Trading Bot for Polymarket - sentiment-analysis and market-making. Featuring sentiment-analysis and market-making, it's the best
 
 
 
